@@ -1,4 +1,4 @@
-lo# CV Online - Portfolio 🪄
+## CV Online - Portfolio 🪄
 
 Este es un proyecto de Curriculum Vitae online para mostrar mi portfolio profesional, realizado en base a una plantilla.
 
