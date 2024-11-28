@@ -1,0 +1,67 @@
+
+
+
+@media (max-width: 1200px) {
+    .aboutme,
+    .download p,
+    .experience,
+    .interests,
+    .portfolio,
+    .skills {
+        width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    .aboutme,
+    .download p,
+    .experience,
+    .interests,
+    .portfolio,
+    .skills {
+        width: 100%;
+    }
+    .header-intro{
+        .menu{
+            background-color: transparent;
+            li{
+                background-color: rgba(255, 255, 255, 0.148);
+                a{
+                    font-family: $mainFont;
+                    color: $black;
+                    font-weight: 600;
+                    &:hover{
+                        color: $terColor;
+                    }
+                }
+            }
+            img{
+                width: 150px;
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .aboutme,
+    .download p,
+    .experience,
+    .interests,
+    .portfolio,
+    .skills {
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .aboutme,
+    .download p,
+    .experience,
+    .interests,
+    .portfolio,
+    .skills {
+        width: 100%;
+        padding: 0 15px;
+    }
+}
